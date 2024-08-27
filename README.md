@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanket Shah</h1>
-<h3 align="center">Machine Learning and Computer Vision Engineer. I Help Companies and 100k+ People Build ML Pipelines and Computer Vision Applications.</h3>
+<h3 align="center">Machine Learning and Computer Vision Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket-pixel&label=Profile%20views&color=0e75b6&style=flat-square" alt="sanket-pixel" /> </p>
 
